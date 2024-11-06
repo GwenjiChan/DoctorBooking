@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,3 +12,6 @@ Currently, two official plugins are available:
 - created folder for components, pages, layout, routes
 - created date for FAQ, doctors
 - created the footer, header and routes
+=======
+# DoctorBooking
+>>>>>>> f23b8b32b5d2f29269aa6157d40e3109dcb8205a
